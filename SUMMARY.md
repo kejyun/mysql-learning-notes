@@ -13,3 +13,4 @@
     * [JSON_CONTAINS](query/query-json-contains.md)
 * [常見問題](question/question-README.md)
     * [Invalid default value for timestamp field](question/question-invalid-default-value-for-timestamp-field.md)
+    * [MySQL 5.7+ ONLY_FULL_GROUP_BY 問題](question/mysql-only-full-group-by.md)
