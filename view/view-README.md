@@ -25,3 +25,4 @@ collation_connection: utf8mb4_0900_ai_ci
 
 ## 參考資料
 * [MySQL :: MySQL 8.0 Reference Manual :: 13.7.7.13 SHOW CREATE VIEW Statement](https://dev.mysql.com/doc/refman/8.0/en/show-create-view.html)
+* [SQL VIEW 檢視表 / 視圖 - SQL 語法教學 Tutorial](https://www.fooish.com/sql/view.html)
