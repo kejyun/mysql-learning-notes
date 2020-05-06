@@ -9,6 +9,7 @@
     * [編碼](database/database-encoding.md)
 * [資料表 Table](table/table-README.md)
     * [編碼](table/table-encoding.md)
+    * [時間](table/table-time.md)
 * [查詢 Query](query/query-README.md)
     * [JSON_CONTAINS](query/query-json-contains.md)
 * [視圖檢視表 View](view/view-README.md)
